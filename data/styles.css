@@ -94,6 +94,9 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .tree_node {
   text-align:left;
 }
@@ -170,5 +173,26 @@
 }
 .image {
   color:#000000;
+}
+.radio-check {
+}
+.radio-uncheck {
+  color:#333333;
+}
+.radio-label-check {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.radio-label-uncheck {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#6B6B6B;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
